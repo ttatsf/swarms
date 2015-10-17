@@ -4,6 +4,7 @@ a Swarmatron-like  SonicBirth v1.3.1 circuit.You can install vst instrument from
 A monophonic synthesizer circuit inspired by the Dewanatron's Swarmatron and the refusesoftware's "the Swarm".
 ## VS. [the Swarm](https://www.refusesoftware.com/swarm)
 You can play swarms as a vst instrument on your DAW.
+
 Some functions added.
 * FM
 * portamento
@@ -12,10 +13,14 @@ Some functions added.
 
 ## Requirement
 Mac OS X
+
 [SonicBirth v1.3.1(not v1.3.0)](http://www.radio.uqam.ca/ambisonic/sonicbirth_v131 _beta2.zip)
+
 32bit vst-enabled DAW 
+
 *As the SonicBirth1.3's development was stopped in 2007 and not has been maintained,it may not work correctly on your environment.
- On my macbook pro (mid 2010,Yosemite and Tracktion6,Live8 or Live9),it works well.
+
+On my macbook pro (mid 2010,Yosemite and Tracktion6,Live8 or Live9),it works well.
 
 ## Usage
 
