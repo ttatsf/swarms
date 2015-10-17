@@ -24,7 +24,7 @@ On my macbook pro (mid 2010,Yosemite and Tracktion6,Live8 or Live9),it works wel
 
 ## Usage
 
-+ + Run SonicBirth.app(v1.3.1).
++ Run SonicBirth.app(v1.3.1).
 + open this swarms.sbc file.
 + File > Install as VST...
 
