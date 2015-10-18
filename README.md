@@ -6,6 +6,8 @@ A monophonic synthesizer circuit inspired by the Dewanatron's Swarmatron and the
 You can play swarms as a vst instrument on your DAW.
 
 Some functions added.
+* triangle oscillator
+* pulse oscillator
 * FM
 * portamento
 * detune control
